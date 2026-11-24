@@ -1,0 +1,6 @@
+{
+  "name": "PediTPN Clinical",
+  "description": "ระบบประเมิน คำนวณ และติดตามการให้สารอาหารทางหลอดเลือดดำ (TPN) สำหรับทารกแรกเกิดและเด็ก",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
